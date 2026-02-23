@@ -1,84 +1,57 @@
-<h1 align="center">Hi 👋, I'm Jawahar Ambedkar</h1>
-<h3 align="center">Full-Stack Web Developer | Building Scalable Web Applications</h3>
+<h1 align="center">Hi 👋 I'm Jawahar Ambedkar</h1>
+<h3 align="center">Full-Stack Web Developer • Building Scalable Web Applications</h3>
+
+<p align="center">
+  <a href="https://portfolio-beta-lemon-27.vercel.app/" target="_blank"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/jawahar-ambedkar-335b353b2/" target="_blank"><strong>💼 LinkedIn</strong></a> •
+  <a href="mailto:jawaharambedkar7988@gmail.com"><strong>📧 Email</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** who loves building complete web applications from frontend to backend.
+I'm a **Full-Stack Web Developer** who builds complete web applications — from responsive frontends to secure, scalable backend systems.
 
-I specialize in developing scalable, production-ready applications with clean architecture and efficient database design.  
-From crafting responsive UI to implementing secure authentication and payment systems — I enjoy building end-to-end solutions.
+I enjoy turning ideas into production-ready products with clean architecture and real-world functionality like authentication, database design, and payment integrations.
 
 Currently focused on:
-- Building real-world full-stack projects
-- Improving system design & backend architecture
-- Writing cleaner, scalable code
+- Scalable backend architecture  
+- System design fundamentals  
+- Building real-world full-stack projects  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-- Next.js (App Router & Pages)
-- React.js
-- TypeScript
-- Tailwind CSS
-- Responsive UI Design
+**Frontend**  
+Next.js • React • TypeScript • Tailwind CSS  
 
-### 🧠 Backend
-- Node.js
-- Next.js API Routes
-- Prisma ORM
-- PostgreSQL
-- REST APIs
-- Authentication (NextAuth)
-- Razorpay Integration
+**Backend**  
+Node.js • Prisma • PostgreSQL • REST APIs  
 
-### 🏗 Architecture & Tools
-- Monorepo (Turborepo)
-- Git & GitHub
-- MVC Patterns
-- Secure Payment Workflows
-- Environment Configurations
+**Authentication & Payments**  
+NextAuth • Razorpay Integration  
 
----
-
-## 📌 Featured Projects
-
-### 🎬 Netflix 2.0 (Full-Stack Clone)
-- Authentication (Credentials + Google)
-- Membership-based access system
-- Razorpay payment integration
-- Prisma + PostgreSQL database
-- Protected routes & session handling
-- Fully responsive UI
-
-### 📺 YouTube UI Clone
-- Responsive video grid layout
-- Modern UI with Tailwind
-- Component-based architecture
+**Architecture & Tools**  
+Turborepo • Monorepo Setup • Git • Environment Configurations  
 
 ---
 
 ## 🎯 What I Bring
 
-✔ Full end-to-end development  
-✔ Clean and scalable backend structure  
-✔ Real-world payment integration experience  
-✔ Strong understanding of authentication systems  
-✔ Continuous learner mindset  
+✔ End-to-end web development  
+✔ Clean & scalable code structure  
+✔ Secure authentication systems  
+✔ Real-world payment workflow experience  
+✔ Strong problem-solving mindset  
 
 ---
 
-## 📫 Let's Connect
-
-If you’re looking for a dedicated Full-Stack Developer or want to collaborate on a project, feel free to reach out!
-
-- 💼 Open to opportunities
-- 🤝 Open to collaborations
-- 🚀 Always building something new
-
----
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  🚀 Open to opportunities • 🤝 Open to collaborations
+</p>
